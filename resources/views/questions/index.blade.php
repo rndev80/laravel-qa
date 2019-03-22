@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-12">
             <div class="card">
-                <div class="card-header">Dashboard</div>
+                <div class="card-header">All questions</div>
 
                 <div class="card-body">
                     @foreach ($questions as $question)
